@@ -41,9 +41,9 @@ export function CTA() {
           </div>
         </div>
         
-        <p className="mt-8 text-gray-400">
-          Онлайн-школа PRo · Повышение грамотности для PR-специалистов
-        </p>
+        <p className="mt-8 text-gray-400">Онлайн-школа PRo · Повышение грамотности для PR-специалистов
+Контакты: @kipari_ss
+</p>
       </div>
     </section>
   );
