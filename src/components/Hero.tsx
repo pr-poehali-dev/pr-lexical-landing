@@ -11,13 +11,9 @@ export function Hero() {
           PRo · Онлайн-школа грамотности
         </div>
         
-        <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
-          Попадай в тональность на любой площадке
-        </h1>
+        <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">Black & white</h1>
         
-        <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto animate-fade-in">
-          Лексическая типология простыми словами: когда можно жаргон, а когда — строго по ТЗ
-        </p>
+        <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto animate-fade-in">КЛЯНЕМСЯ, БОЛЬШЕ КРИНЖА НЕ БУДЕТ!</p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center animate-scale-in">
           <Button size="lg" className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-lg px-8">

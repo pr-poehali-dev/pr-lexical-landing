@@ -9,9 +9,7 @@ export function CTA() {
           <div className="absolute inset-0 bg-gradient-to-br from-purple-500/20 to-pink-500/20 animate-pulse"></div>
           
           <div className="relative z-10">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white">
-              Готов попадать в тональность?
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white">Готов к улучшению своих скилов?</h2>
             <p className="text-xl text-purple-100 mb-8 max-w-2xl mx-auto">
               Записывайся на модуль «Лексическая типология» и получи карту регистров для любой площадки
             </p>
