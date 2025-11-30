@@ -11,7 +11,7 @@ export function Problem() {
     {
       icon: "Ban",
       title: "Нарушил этику площадки",
-      description: "То, что заходит в ТГ-канале, может провалиться в LinkedIn"
+      description: "То, что заходит в ТГ-канале, может провалиться в Workplace"
     },
     {
       icon: "TrendingDown",
